@@ -19,9 +19,9 @@ A Summary of Clean Code Book
 	├── Chapter 14: Successive Refinement
 	├── Chapter 15: JUnit Internals
 	├── Chapter 16:Refactoring serial Data
-	├── Chapter 17:Smells And Huristics
+	└── Chapter 17:Smells And Huristics
 ```
-## Chapter 1: Clean Code
+
 ## Chapter 1: Clean Code
 ## Chapter 2:  Meaningfull name
 ## Chapter 3: Functions
